@@ -78,6 +78,6 @@ Marketplace for event companies and vendors with job posting, vendor discovery, 
 ## 📈 GitHub Snapshot
 
 <p>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=light" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=light" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-2810&theme=light" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka-2810&layout=compact&theme=light" />
 </p>
